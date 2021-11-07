@@ -10,10 +10,14 @@ positional arguments:
 
 optional arguments:
   -h, --help            show this help message and exit
+  
   -m {e,d}, --mode {e,d}
                         Choose mode: e for encryption or d for decryption
+                        
   -k KEY, --key KEY     An 80 bit key
+  
   -o OUT                Output file
 
 Made by tnt2402
+
 Cherry picked from many sources :>
